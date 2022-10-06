@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 ![SASS](https://img.shields.io/badge/SASS-cd6799?style=for-the-badge&logo=sass&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
